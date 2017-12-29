@@ -1,5 +1,5 @@
 {
-  "name": "san-cli",
+  "name": "my-san-cli",
   "version": "0.0.1",
   "description": "Auto generate san(a MVVM framework) project template",
   "main": "index.js",
