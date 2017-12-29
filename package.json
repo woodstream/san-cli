@@ -1,0 +1,30 @@
+{
+  "name": "san-cli",
+  "version": "0.0.1",
+  "description": "Auto generate san(a MVVM framework) project template",
+  "main": "index.js",
+  "bin": {
+    "san": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodstream/san-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "woodstream",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woodstream/san-cli/issues"
+  },
+  "dependencies": {
+    "commander": "^2.12.2",
+    "git-clone": "^0.1.0",
+    "shelljs": "^0.7.8",
+    "tracer": "^0.8.11"
+  }
+}
